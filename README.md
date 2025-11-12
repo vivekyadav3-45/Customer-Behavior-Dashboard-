@@ -110,4 +110,4 @@ Environment: Jupyter Notebook / VS Code
 │   └── Customer_Shopping_Behavior.pbix
 ├── README.md
 
-Dashboard Preview
+Dashboard Preview https://github.com/vivekyadav3-45/Customer-Behavior-Dashboard-/blob/main/Snapshot%20of%20tha%20dashboard.png
